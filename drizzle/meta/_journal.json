@@ -1,0 +1,55 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1727862532108,
+      "tag": "20241002094852_green_boomer",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1727862883879,
+      "tag": "20241002095443_light_selene",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1727862988233,
+      "tag": "20241002095628_ancient_winter_soldier",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1727863747186,
+      "tag": "20241002100907_dear_thor",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1727959315741,
+      "tag": "20241003124155_solid_fenris",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1727959514009,
+      "tag": "20241003124514_parallel_reavers",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "7",
+      "when": 1727960355648,
+      "tag": "20241003125915_remarkable_iron_fist",
+      "breakpoints": true
+    }
+  ]
+}
